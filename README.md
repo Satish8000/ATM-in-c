@@ -1,6 +1,8 @@
 # ATM-in-c
 It is a ATM like screen with working of all the functions like balance enquiry, deposit, withdraw and PIN changeable system
 
+<img src="https://i.ibb.co/3v13yZt/ATM.png" alt="ATM" border="0">
+
 ## Installation
 ### Linux/Ubuntu
 
